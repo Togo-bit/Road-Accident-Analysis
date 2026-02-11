@@ -98,5 +98,3 @@ Road-Accident-Analysis-Project/
 └── README.md
 ```
 
-
-⭐ If you found this project useful, give it a star on GitHub!
